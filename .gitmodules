@@ -1,0 +1,9 @@
+[submodule "QST 402"]
+	path = QST 402
+	url = https://github.com/the-iron-ryan/QST-402.git
+[submodule "CS 239"]
+	path = CS 239
+	url = https://github.com/the-iron-ryan/CS-239.git
+[submodule "Lab"]
+	path = Lab
+	url = https://github.com/the-iron-ryan/MQST_Winter2023_Lab.git
